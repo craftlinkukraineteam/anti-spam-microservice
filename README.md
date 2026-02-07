@@ -33,6 +33,3 @@ yarn run test:e2e
 # test coverage
 yarn run test:cov
 ```
-
-Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
-# anti-spam-microservice
